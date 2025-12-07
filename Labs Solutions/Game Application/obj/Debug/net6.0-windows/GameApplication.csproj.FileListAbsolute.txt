@@ -1,0 +1,34 @@
+C:\labs\GameApplication\bin\Debug\net6.0-windows\GameApplication.exe
+C:\labs\GameApplication\bin\Debug\net6.0-windows\GameApplication.deps.json
+C:\labs\GameApplication\bin\Debug\net6.0-windows\GameApplication.runtimeconfig.json
+C:\labs\GameApplication\bin\Debug\net6.0-windows\GameApplication.dll
+C:\labs\GameApplication\bin\Debug\net6.0-windows\GameApplication.pdb
+C:\labs\GameApplication\obj\Debug\net6.0-windows\GameApplication.csproj.AssemblyReference.cache
+C:\labs\GameApplication\obj\Debug\net6.0-windows\GameApplication.Form1.resources
+C:\labs\GameApplication\obj\Debug\net6.0-windows\GameApplication.csproj.GenerateResource.cache
+C:\labs\GameApplication\obj\Debug\net6.0-windows\GameApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\GameApplication\obj\Debug\net6.0-windows\GameApplication.AssemblyInfoInputs.cache
+C:\labs\GameApplication\obj\Debug\net6.0-windows\GameApplication.AssemblyInfo.cs
+C:\labs\GameApplication\obj\Debug\net6.0-windows\GameApplication.csproj.CoreCompileInputs.cache
+C:\labs\GameApplication\obj\Debug\net6.0-windows\GameApplication.dll
+C:\labs\GameApplication\obj\Debug\net6.0-windows\refint\GameApplication.dll
+C:\labs\GameApplication\obj\Debug\net6.0-windows\GameApplication.pdb
+C:\labs\GameApplication\obj\Debug\net6.0-windows\GameApplication.genruntimeconfig.cache
+C:\labs\GameApplication\obj\Debug\net6.0-windows\ref\GameApplication.dll
+C:\QA\CWS\1-Level 3\0-C# New\Labs Solutions\GameApplication\bin\Debug\net6.0-windows\GameApplication.exe
+C:\QA\CWS\1-Level 3\0-C# New\Labs Solutions\GameApplication\bin\Debug\net6.0-windows\GameApplication.deps.json
+C:\QA\CWS\1-Level 3\0-C# New\Labs Solutions\GameApplication\bin\Debug\net6.0-windows\GameApplication.runtimeconfig.json
+C:\QA\CWS\1-Level 3\0-C# New\Labs Solutions\GameApplication\bin\Debug\net6.0-windows\GameApplication.dll
+C:\QA\CWS\1-Level 3\0-C# New\Labs Solutions\GameApplication\bin\Debug\net6.0-windows\GameApplication.pdb
+C:\QA\CWS\1-Level 3\0-C# New\Labs Solutions\GameApplication\obj\Debug\net6.0-windows\GameApplication.csproj.AssemblyReference.cache
+C:\QA\CWS\1-Level 3\0-C# New\Labs Solutions\GameApplication\obj\Debug\net6.0-windows\GameApplication.Form1.resources
+C:\QA\CWS\1-Level 3\0-C# New\Labs Solutions\GameApplication\obj\Debug\net6.0-windows\GameApplication.csproj.GenerateResource.cache
+C:\QA\CWS\1-Level 3\0-C# New\Labs Solutions\GameApplication\obj\Debug\net6.0-windows\GameApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\QA\CWS\1-Level 3\0-C# New\Labs Solutions\GameApplication\obj\Debug\net6.0-windows\GameApplication.AssemblyInfoInputs.cache
+C:\QA\CWS\1-Level 3\0-C# New\Labs Solutions\GameApplication\obj\Debug\net6.0-windows\GameApplication.AssemblyInfo.cs
+C:\QA\CWS\1-Level 3\0-C# New\Labs Solutions\GameApplication\obj\Debug\net6.0-windows\GameApplication.csproj.CoreCompileInputs.cache
+C:\QA\CWS\1-Level 3\0-C# New\Labs Solutions\GameApplication\obj\Debug\net6.0-windows\GameApplication.dll
+C:\QA\CWS\1-Level 3\0-C# New\Labs Solutions\GameApplication\obj\Debug\net6.0-windows\refint\GameApplication.dll
+C:\QA\CWS\1-Level 3\0-C# New\Labs Solutions\GameApplication\obj\Debug\net6.0-windows\GameApplication.pdb
+C:\QA\CWS\1-Level 3\0-C# New\Labs Solutions\GameApplication\obj\Debug\net6.0-windows\GameApplication.genruntimeconfig.cache
+C:\QA\CWS\1-Level 3\0-C# New\Labs Solutions\GameApplication\obj\Debug\net6.0-windows\ref\GameApplication.dll
