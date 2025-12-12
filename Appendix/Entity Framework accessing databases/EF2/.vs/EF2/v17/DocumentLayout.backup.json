@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\QA\\0-C# New\\EF2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0A07D3-1378-4133-8680-BD63DF1A3B82}|EF2\\EF2.csproj|c:\\qa\\0-c# new\\ef2\\ef2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0A07D3-1378-4133-8680-BD63DF1A3B82}|EF2\\EF2.csproj|solutionrelative:ef2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0A07D3-1378-4133-8680-BD63DF1A3B82}|EF2\\EF2.csproj|c:\\qa\\0-c# new\\ef2\\ef2\\critical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0A07D3-1378-4133-8680-BD63DF1A3B82}|EF2\\EF2.csproj|solutionrelative:ef2\\critical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0A07D3-1378-4133-8680-BD63DF1A3B82}|EF2\\EF2.csproj|c:\\qa\\0-c# new\\ef2\\ef2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0A07D3-1378-4133-8680-BD63DF1A3B82}|EF2\\EF2.csproj|solutionrelative:ef2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0A07D3-1378-4133-8680-BD63DF1A3B82}|EF2\\EF2.csproj|c:\\qa\\0-c# new\\ef2\\ef2\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0A07D3-1378-4133-8680-BD63DF1A3B82}|EF2\\EF2.csproj|solutionrelative:ef2\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Critical.cs",
+              "DocumentMoniker": "C:\\QA\\0-C# New\\EF2\\EF2\\Critical.cs",
+              "RelativeDocumentMoniker": "EF2\\Critical.cs",
+              "ToolTip": "C:\\QA\\0-C# New\\EF2\\EF2\\Critical.cs",
+              "RelativeToolTip": "EF2\\Critical.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:25:53.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\QA\\0-C# New\\EF2\\EF2\\Customer.cs",
+              "RelativeDocumentMoniker": "EF2\\Customer.cs",
+              "ToolTip": "C:\\QA\\0-C# New\\EF2\\EF2\\Customer.cs",
+              "RelativeToolTip": "EF2\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:56:39.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\QA\\0-C# New\\EF2\\EF2\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "EF2\\NorthwindContext.cs",
+              "ToolTip": "C:\\QA\\0-C# New\\EF2\\EF2\\NorthwindContext.cs",
+              "RelativeToolTip": "EF2\\NorthwindContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:56:04.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\QA\\0-C# New\\EF2\\EF2\\Program.cs",
+              "RelativeDocumentMoniker": "EF2\\Program.cs",
+              "ToolTip": "C:\\QA\\0-C# New\\EF2\\EF2\\Program.cs",
+              "RelativeToolTip": "EF2\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:52:57.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
