@@ -1,5 +1,4 @@
-﻿namespace LabsSolutions.Lab8;
-
+﻿
 public class Employee
 {
     private string Name { get; set; }
@@ -17,6 +16,6 @@ public class Employee
 
     public virtual string GetDetails()
     {
-        return $"*****\nName: {Name}\nJob Title: {JobTitle}\nEmployee ID: {ID}\n";
+        return $"Name:{Name} -Job Title:{JobTitle}-Employee ID:{ID}\n";
     }
 }

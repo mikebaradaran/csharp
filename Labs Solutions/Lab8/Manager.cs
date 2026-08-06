@@ -1,6 +1,5 @@
-﻿using System.Text;
-
-namespace LabsSolutions.Lab8;
+﻿using System.Collections.Generic;
+using System.Text;
 
 public class Manager : Employee
 {
@@ -21,7 +20,7 @@ public class Manager : Employee
         StringBuilder res = new StringBuilder(base.GetDetails());
         foreach (Employee employee in employees)
         {
-            res.Append(employee.GetDetails() + "\n");
+            res.Append("\t"+employee.GetDetails());
         }
         return res.ToString();
     }
