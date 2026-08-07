@@ -16,6 +16,10 @@ public class Employee
 
     public virtual string GetDetails()
     {
-        return $"Name:{Name} -Job Title:{JobTitle}-Employee ID:{ID}\n";
+        string info = $"{this.GetType().Name} Name:{Name} -Job Title:{JobTitle}-Employee ID:{ID}\n";
+
+        if (! (this is Manager))
+            info = "\t" + info;
+        return info;
     }
 }

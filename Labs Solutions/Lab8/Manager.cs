@@ -20,7 +20,7 @@ public class Manager : Employee
         StringBuilder res = new StringBuilder(base.GetDetails());
         foreach (Employee employee in employees)
         {
-            res.Append("\t"+employee.GetDetails());
+            res.Append("\t" + employee.GetDetails());
         }
         return res.ToString();
     }
